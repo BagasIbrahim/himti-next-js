@@ -20,6 +20,8 @@ module.exports = {
       quaternary: "#6c63ff",
       white: "#ffffff",
       danger: "#f75842",
+      violet: "rgb(91 33 182);",
+      
     },
     container: {
       center: true,
