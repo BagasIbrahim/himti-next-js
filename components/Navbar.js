@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { useEffect } from "react";
-import header from "../public/images/logo_himti.jpeg";
+import header from "../public/images/logo_himti.jpg";
 import Image from "next/image";
 
 export const Navbar = () => {
