@@ -20,6 +20,9 @@ module.exports = {
       quaternary: "#6c63ff",
       white: "#ffffff",
       danger: "#f75842",
+      darkviolet: "#7209F8",
+      fuchsia: "#951DBF",
+      violet: "#4E3485",
     },
     container: {
       center: true,
